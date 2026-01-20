@@ -25,7 +25,7 @@ Projects developed as part of the 4Geeks cybersecurity program, including final 
  - **bWAPP-web-security-lab**  
 Hands-on practice using the bWAPP vulnerable web application to identify and exploit common web vulnerabilities such as SQL Injection, XSS, Broken Authentication, IDOR, and File Inclusion.  
 The lab focuses on understanding attack vectors, impact, and security implications in a controlled environment.  
-Repository: *(to be added)*
+Repository: https://github.com/luzu1/bWAPP-web-security-lab
 
 
 ### B– Udemy
