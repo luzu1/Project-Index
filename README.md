@@ -27,6 +27,11 @@ Hands-on practice using the bWAPP vulnerable web application to identify and exp
 The lab focuses on understanding attack vectors, impact, and security implications in a controlled environment.  
 Repository: https://github.com/luzu1/bWAPP-web-security-lab
 
+- **Metasploitable2 – Pentesting Lab**  
+  Practical penetration testing lab focused on network service enumeration, vulnerability identification, and exploitation of legacy services in a controlled environment.  
+  The lab covers reconnaissance, port scanning, service and version enumeration, vulnerability analysis, and exploitation using industry-standard tools such as Nmap and Metasploit.  
+  Repository: https://github.com/luzu1/Metasploitable2-Pentesting
+
 
 ### B– Udemy
 
