@@ -1,95 +1,81 @@
+## Índice de Proyectos
 
-# Project Index
 
-This repository serves as a structured index of my work and projects.
+Este repositorio funciona como un **índice estructurado de mis estudios y proyectos**.
 
-It organizes my professional, academic, and personal projects by area, providing a clear navigation path and context for each type of work.
+- Este repositorio destaca los proyectos más relevantes y estructurados.
+- Algunos repositorios representan etapas de aprendizaje y estudios.
+- Pueden existir repositorios adicionales fuera de esta lista.
 
 ---
 
 ## 1. Ciberseguridad
 
+### A – 4Geeks
 
-### A- 4Geeks Academy
-
-Projects developed as part of the 4Geeks cybersecurity program, including final deliverables and applied security practices.
+Proyectos desarrollados como parte del programa de **Ciberseguridad de 4Geeks Academy**, incluyendo entregables finales y prácticas aplicadas de seguridad.
 
 - **Proyecto Final – Ciberseguridad 4Geeks**  
-  Pentesting, SGSI fundamentals, and continuity planning  
-  Repository: https://github.com/luzu1/4geeks-cybersecurity-final-project
+  Pentesting, fundamentos de SGSI y planificación de continuidad del negocio  
+  Repositorio: https://github.com/luzu1/4geeks-cybersecurity-final-project
 
 - **SGSI – Proyecto USPS (ISO 27001 / NIST / FISMA)**  
-  Design and documentation of an Information Security Management System  
-  Repository: https://github.com/luzu1/SGSI-USPS-proyecto-4geeks
+  Diseño y documentación de un Sistema de Gestión de Seguridad de la Información  
+  Repositorio: https://github.com/luzu1/SGSI-USPS-proyecto-4geeks
 
- - **bWAPP-web-security-lab**  
-Hands-on practice using the bWAPP vulnerable web application to identify and exploit common web vulnerabilities such as SQL Injection, XSS, Broken Authentication, IDOR, and File Inclusion.  
-The lab focuses on understanding attack vectors, impact, and security implications in a controlled environment.  
-Repository: https://github.com/luzu1/bWAPP-web-security-lab
+- **bWAPP – Laboratorio de Seguridad Web**  
+  Práctica hands-on utilizando la aplicación web vulnerable bWAPP para identificar y explotar vulnerabilidades web comunes como SQL Injection, XSS, Broken Authentication, IDOR y File Inclusion.  
+  El laboratorio se centra en comprender los vectores de ataque, su impacto y las implicancias de seguridad en un entorno controlado.  
+  Repositorio: https://github.com/luzu1/bWAPP-web-security-lab
 
-- **Metasploitable2 – Pentesting Lab**  
-  Practical penetration testing lab focused on network service enumeration, vulnerability identification, and exploitation of legacy services in a controlled environment.  
-  The lab covers reconnaissance, port scanning, service and version enumeration, vulnerability analysis, and exploitation using industry-standard tools such as Nmap and Metasploit.  
-  Repository: https://github.com/luzu1/Metasploitable2-Pentesting
+- **Metasploitable2 – Laboratorio de Pentesting**  
+  Laboratorio práctico de pruebas de penetración enfocado en la enumeración de servicios de red, identificación de vulnerabilidades y explotación de servicios legacy en un entorno controlado.  
+  El laboratorio cubre reconocimiento, escaneo de puertos, enumeración de servicios y versiones, análisis de vulnerabilidades y explotación utilizando herramientas estándar de la industria como Nmap y Metasploit.  
+  Repositorio: https://github.com/luzu1/Metasploitable2-Pentesting
 
-
-### B– Udemy
-
-Cybersecurity-related courses and practical exercises completed through Udemy.
-
-- **Cursos y Prácticas de Ciberseguridad (Udemy)**  
-  Hands-on exercises, labs, and supporting materials  
-  Repository: *(to be added)*
+- **Metasploitable – Pentesting y Reconocimiento de Servicios**  
+  Ejercicio práctico de pentesting sobre una máquina vulnerable Metasploitable, siguiendo la metodología OWASP (Black Box).  
+  Incluye fases de reconocimiento, enumeración, análisis de servicios web, explotación de vulnerabilidades críticas (vsFTPd 2.3.4, DistCC), pruebas de inyección SQL y análisis de configuraciones inseguras.  
+  Se documentan evidencias técnicas mediante escaneos Nmap, Nikto, Metasploit, SQLMap y análisis de cifrados TLS.  
+  Repositorio: https://github.com/luzu1/Metasploitable-reconocimiento-pentesting      
 
 
-### C– CTFs
 
-Capture The Flag challenges and security exercises focused on practical exploitation and defensive techniques.
+### B – Cursos
+
+Cursos y ejercicios prácticos relacionados con ciberseguridad.
+
+- **Cursos y Prácticas de Ciberseguridad**  
+  Ejercicios prácticos, laboratorios y material de apoyo
+ 
+
+
+### C – CTFs
+
+Retos Capture The Flag y ejercicios de seguridad enfocados en la explotación práctica y técnicas defensivas.
 
 - **CTFs y Retos de Seguridad**  
-  Practice environments and challenge-based learning  
-  Repository:      
+  Entornos de práctica y aprendizaje basado en desafíos  
 
-   1- https://github.com/luzu1/Lab-Psycho  
-   2- 
+  1. https://github.com/luzu1/Lab-Psycho  
 
-### D– Herramientas
 
-Custom tools, scripts, and configurations used for security testing, analysis, or automation.
+
+### D – Herramientas
+
+Herramientas personalizadas, scripts y configuraciones utilizadas para pruebas de seguridad, análisis o automatización.
 
 - **Herramientas de Seguridad**  
-  Utilities and supporting scripts for cybersecurity work  
-  Repository: *(to be added)*
+  Utilidades y scripts de soporte para trabajos de ciberseguridad  
+ 
 
 ---
 
+## 2. Proyectos
 
-## 2. Infraestructura y Sistemas
-
-Projects related to infrastructure, self-hosting, system administration, and platform management.
+Proyectos relacionados con infraestructura, self-hosting, administración de sistemas y gestión de plataformas.
 
 - **Nextcloud en Raspberry Pi 5**  
-  Self-hosted cloud services, storage, and system configuration  
-  Repository: https://github.com/luzu1/rpi5-nextcloud
+  Servicios cloud autoalojados, almacenamiento y configuración del sistema  
+  Repositorio: https://github.com/luzu1/rpi5-nextcloud
 
----
-
-
-## 3. Proyectos Personales
-
-Personal initiatives, experiments, and technical explorations outside formal training or professional requirements.
-
-- **Proyectos y Experimentos Personales**  
-  Learning-driven projects and technical curiosity  
-  Repository: *(various repositories)*
-
----
-
-
-## Notes
-
-- This index highlights the most relevant and structured projects.
-- Some repositories represent learning stages or historical work and are kept public for reference.
-- Additional repositories may exist outside this list.
-
----
