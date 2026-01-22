@@ -1,11 +1,7 @@
 ## Índice de Proyectos
 
-
-Este repositorio funciona como un **índice estructurado de mis estudios y proyectos**.
-
 - Este repositorio destaca los proyectos más relevantes y estructurados.
 - Algunos repositorios representan etapas de aprendizaje y estudios.
-- Pueden existir repositorios adicionales fuera de esta lista.
 
 ---
 
@@ -29,16 +25,13 @@ Proyectos desarrollados como parte del programa de **Ciberseguridad de 4Geeks Ac
   Repositorio: https://github.com/luzu1/bWAPP-web-security-lab
 
 - **Metasploitable2 – Laboratorio de Pentesting**  
-  Laboratorio práctico de pruebas de penetración enfocado en la enumeración de servicios de red, identificación de vulnerabilidades y explotación de servicios legacy en un entorno controlado.  
-  El laboratorio cubre reconocimiento, escaneo de puertos, enumeración de servicios y versiones, análisis de vulnerabilidades y explotación utilizando herramientas estándar de la industria como Nmap y Metasploit.  
+  Laboratorio práctico de pruebas de penetración enfocado en la enumeración de servicios de red, identificación de vulnerabilidades y explotación de servicios en un entorno controlado.  
   Repositorio: https://github.com/luzu1/Metasploitable2-Pentesting
 
 - **Metasploitable – Pentesting y Reconocimiento de Servicios**  
   Ejercicio práctico de pentesting sobre una máquina vulnerable Metasploitable, siguiendo la metodología OWASP (Black Box).  
-  Incluye fases de reconocimiento, enumeración, análisis de servicios web, explotación de vulnerabilidades críticas (vsFTPd 2.3.4, DistCC), pruebas de inyección SQL y análisis de configuraciones inseguras.  
-  Se documentan evidencias técnicas mediante escaneos Nmap, Nikto, Metasploit, SQLMap y análisis de cifrados TLS.  
+  Incluye fases de reconocimiento, enumeración, análisis de servicios web, explotación de vulnerabilidades críticas, pruebas de inyección SQL y análisis de configuraciones inseguras.  
   Repositorio: https://github.com/luzu1/Metasploitable-reconocimiento-pentesting      
-
 
 
 ### B – Cursos
@@ -49,7 +42,6 @@ Cursos y ejercicios prácticos relacionados con ciberseguridad.
   Ejercicios prácticos, laboratorios y material de apoyo
  
 
-
 ### C – CTFs
 
 Retos Capture The Flag y ejercicios de seguridad enfocados en la explotación práctica y técnicas defensivas.
@@ -58,7 +50,6 @@ Retos Capture The Flag y ejercicios de seguridad enfocados en la explotación pr
   Entornos de práctica y aprendizaje basado en desafíos  
 
   1. https://github.com/luzu1/Lab-Psycho  
-
 
 
 ### D – Herramientas
