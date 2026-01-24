@@ -33,6 +33,11 @@ Proyectos desarrollados como parte del programa de **Ciberseguridad de 4Geeks Ac
   Incluye fases de reconocimiento, enumeración, análisis de servicios web, explotación de vulnerabilidades críticas, pruebas de inyección SQL y análisis de configuraciones inseguras.  
   Repositorio: https://github.com/luzu1/Metasploitable-reconocimiento-pentesting      
 
+- **Wazuh SIEM – Threat Hunting & Monitoring Lab**  
+  Laboratorio práctico orientado a la monitorización de eventos de seguridad, detección de amenazas y threat hunting utilizando Wazuh SIEM.  
+  Incluye análisis de eventos del agente, detección de fallos de autenticación, correlación de alertas y visualización de métricas mediante dashboards, con enfoque en perfiles SOC / Blue Team.  
+  Repositorio: https://github.com/luzu1/Wazuh-SIEM
+
 
 ### B – Cursos
 
