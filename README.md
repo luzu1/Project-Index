@@ -11,32 +11,23 @@
 
 Proyectos desarrollados como parte del programa de **Ciberseguridad de 4Geeks Academy**, incluyendo entregables finales y prácticas aplicadas de seguridad.
 
-- **Proyecto Final – Ciberseguridad 4Geeks**  
-  Pentesting, fundamentos de SGSI y planificación de continuidad del negocio  
-  Repositorio: https://github.com/luzu1/4geeks-cybersecurity-final-project
+- **[Proyecto Final – Ciberseguridad 4Geeks](https://github.com/luzu1/4geeks-cybersecurity-final-project)**  
+  Pentesting, fundamentos de SGSI y planificación de continuidad del negocio.
 
-- **SGSI – Proyecto USPS (ISO 27001 / NIST / FISMA)**  
-  Diseño y documentación de un Sistema de Gestión de Seguridad de la Información  
-  Repositorio: https://github.com/luzu1/SGSI-USPS-proyecto-4geeks
+- **[SGSI – Proyecto USPS (ISO 27001 / NIST / FISMA)](https://github.com/luzu1/SGSI-USPS-proyecto-4Geeks)**  
+  Diseño y documentación de un Sistema de Gestión de Seguridad de la Información.
 
-- **bWAPP – Laboratorio de Seguridad Web**  
-  Práctica hands-on utilizando la aplicación web vulnerable bWAPP para identificar y explotar vulnerabilidades web comunes como SQL Injection, XSS, Broken Authentication, IDOR y File Inclusion.  
-  El laboratorio se centra en comprender los vectores de ataque, su impacto y las implicancias de seguridad en un entorno controlado.  
-  Repositorio: https://github.com/luzu1/bWAPP-web-security-lab
+- **[bWAPP – Laboratorio de Seguridad Web](https://github.com/luzu1/bWAPP-web-security-lab)**  
+  Práctica hands-on con SQL Injection, XSS, Broken Authentication, IDOR y File Inclusion.
 
-- **Metasploitable2 – Laboratorio de Pentesting**  
-  Laboratorio práctico de pruebas de penetración enfocado en la enumeración de servicios de red, identificación de vulnerabilidades y explotación de servicios en un entorno controlado.  
-  Repositorio: https://github.com/luzu1/Metasploitable2-Pentesting
+- **[Metasploitable2 – Laboratorio de Pentesting](https://github.com/luzu1/Metasploitable2-Pentesting)**  
+  Enumeración de servicios, identificación y explotación de vulnerabilidades en entorno controlado.
 
-- **Metasploitable – Pentesting y Reconocimiento de Servicios**  
-  Ejercicio práctico de pentesting sobre una máquina vulnerable Metasploitable, siguiendo la metodología OWASP (Black Box).  
-  Incluye fases de reconocimiento, enumeración, análisis de servicios web, explotación de vulnerabilidades críticas, pruebas de inyección SQL y análisis de configuraciones inseguras.  
-  Repositorio: https://github.com/luzu1/Metasploitable-reconocimiento-pentesting      
+- **[Metasploitable – Pentesting y Reconocimiento de Servicios](https://github.com/luzu1/Metasploitable-reconocimiento-pentesting)**  
+  Reconocimiento, enumeración, análisis web, explotación e inyecciones SQL (Black Box).
 
-- **Wazuh SIEM – Threat Hunting & Monitoring Lab**  
-  Laboratorio práctico orientado a la monitorización de eventos de seguridad, detección de amenazas y threat hunting utilizando Wazuh SIEM.  
-  Incluye análisis de eventos del agente, detección de fallos de autenticación, correlación de alertas y visualización de métricas mediante dashboards, con enfoque en perfiles SOC / Blue Team.  
-  Repositorio: https://github.com/luzu1/Wazuh-SIEM
+- **[Wazuh SIEM – Threat Hunting & Monitoring Lab](https://github.com/luzu1/Wazuh-SIEM)**  
+  Monitorización, detección de amenazas, correlación de alertas y dashboards con enfoque SOC / Blue Team.
 
 
 ### B – Cursos
@@ -54,7 +45,7 @@ Retos Capture The Flag y ejercicios de seguridad enfocados en la explotación pr
 - **CTFs y Retos de Seguridad**  
   Entornos de práctica y aprendizaje basado en desafíos  
 
-  1. https://github.com/luzu1/Lab-Psycho  
+  - **[Lab Psycho](https://github.com/luzu1/Lab-Psycho)**   
 
 
 ### D – Herramientas
@@ -71,7 +62,6 @@ Herramientas personalizadas, scripts y configuraciones utilizadas para pruebas d
 
 Proyectos relacionados con infraestructura, self-hosting, administración de sistemas y gestión de plataformas.
 
-- **Nextcloud en Raspberry Pi 5**  
-  Servicios cloud autoalojados, almacenamiento y configuración del sistema  
-  Repositorio: https://github.com/luzu1/rpi5-nextcloud
+- **[Raspberry Pi 5](https://github.com/luzu1/rpi5-nextcloud)**  
+  Implementación de servicios cloud autohospedados, almacenamiento y configuración del sistema.
 
