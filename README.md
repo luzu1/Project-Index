@@ -33,7 +33,6 @@ Proyectos desarrollados como parte del programa de **Ciberseguridad de 4Geeks Ac
 
 #### Sistemas Operativos
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-15AABE?style=for-the-badge&logo=parrotsecurity&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
