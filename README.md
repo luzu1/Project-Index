@@ -29,7 +29,7 @@ Proyectos desarrollados como parte del programa de **Ciberseguridad de 4Geeks Ac
 - **[Wazuh SIEM – Threat Hunting & Monitoring Lab](https://github.com/luzu1/Wazuh-SIEM)**  
   Monitorización, detección de amenazas, correlación de alertas y dashboards con enfoque SOC / Blue Team.
 
-
+### - Herramientas
 
 #### Sistemas Operativos
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
