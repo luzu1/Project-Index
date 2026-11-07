@@ -35,7 +35,7 @@ Selección de proyectos y laboratorios de ciberseguridad, administración de sis
   Monitorización, detección de amenazas, correlación de alertas y dashboards con enfoque SOC / Blue Team.
 
 <p align="center">
-  <strong>🛠️ Tecnologías y herramientas</strong>
+  <strong> Tecnologías y herramientas</strong>
 </p>
 
 <p align="center">
