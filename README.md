@@ -129,9 +129,11 @@ Nube privada con Nextcloud, Docker y MariaDB. Acceso mediante Tailscale y Cloudf
 
 ### B – Homelab · Proxmox VE
 
-Infraestructura sobre Lenovo ThinkCentre M920q con máquinas virtuales y contenedores LXC para servicios autohospedados. Administración de almacenamiento, monitorización con Uptime Kuma y copias de seguridad programadas.
+**[Ver repositorio](https://github.com/luzu1/homelab-proxmox)**
 
-Servicios desplegados como Home Assistant, Immich y herramientas de administración con Portainer.
+Laboratorio práctico de virtualización y administración de sistemas con Proxmox VE, Linux, contenedores LXC y Docker.
+
+Documentación paso a paso con comandos y explicaciones sobre administración de máquinas virtuales, despliegue de aplicaciones, monitorización, diagnóstico y copias de seguridad.
 
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
