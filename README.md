@@ -108,29 +108,32 @@ Retos Capture The Flag y ejercicios de seguridad enfocados en la explotación pr
 
 ---
 
-### D – Herramientas
-
-Herramientas personalizadas, scripts y configuraciones utilizadas para pruebas de seguridad, análisis o automatización.
-
-- **Herramientas de Seguridad**  
-  Utilidades y scripts de soporte para trabajos de ciberseguridad  
- 
 
 ---
 
-### 2. Proyectos
+## 2. Proyectos
 
-Proyectos relacionados con infraestructura, self-hosting, administración de sistemas y gestión de plataformas.
+Proyectos relacionados con infraestructura, autohospedaje y administración de sistemas.
 
-- **[Raspberry Pi 5](https://github.com/luzu1/rpi5-nextcloud)**  
-  Implementación de servicios cloud autohospedados, almacenamiento y configuración del sistema.
+### A – Raspberry Pi 5 · Nextcloud
 
-  
-#### Infraestructura / Self-hosting
+**[Ver repositorio](https://github.com/luzu1/rpi5-nextcloud)**
+
+Nube privada con Nextcloud, Docker y MariaDB. Acceso mediante Tailscale y Cloudflare Tunnel, mantenimiento y copias de seguridad.
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-<a href="https://nextcloud.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white"/>
-</a>
+![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white)
 
+---
+
+### B – Homelab · Proxmox VE
+
+Infraestructura sobre Lenovo ThinkCentre M920q con máquinas virtuales y contenedores LXC para servicios autohospedados. Administración de almacenamiento, monitorización con Uptime Kuma y copias de seguridad programadas.
+
+Servicios desplegados como Home Assistant, Immich y herramientas de administración con Portainer.
+
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
